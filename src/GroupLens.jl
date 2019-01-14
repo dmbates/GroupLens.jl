@@ -1,5 +1,5 @@
 module GroupLens
-using CSV, DataDeps, DataFramesMeta, Tables
+using DataDeps
 
 export @datadep_str
 
